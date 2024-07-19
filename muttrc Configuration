@@ -1,0 +1,5 @@
+set from = "kingsleyappiah2143@gmail.com"
+set realname = "DEVOPS TEAM"
+set smtp_url = "smtps://kingsleyappiah2143@gmail.com@smtp.gmail.com:465/"
+set smtp_pass = "your password"
+set ssl_force_tls = yes
